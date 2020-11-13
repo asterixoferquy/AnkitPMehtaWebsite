@@ -5,7 +5,7 @@ slug: "design-for-humans-part-1"
 description: ""
 keywords: ["uiux", "design", "software", "front-end"]
 draft: false
-tags: ["UI UX"]
+tags: ["UI/UX"]
 math: false
 toc: false
 ---
