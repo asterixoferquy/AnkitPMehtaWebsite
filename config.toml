@@ -56,18 +56,18 @@ copyright = "© {year}"
 # Controls the navigation
 [[menu.main]]
   identifier = "about"
-  name = "about"
+  name = "About"
   title = "About"
   url = "/"
 
 [[menu.main]]
   identifier = "blog"
-  name = "blog"
+  name = "Blog"
   title = "Blog"
   url = "/blog"
 
 [[menu.main]]
     identifier = "contact"
-    name = "contact"
+    name = "Contact"
     title = "Contact"
     url = "/contact"

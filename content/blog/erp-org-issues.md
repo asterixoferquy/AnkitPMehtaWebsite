@@ -5,7 +5,7 @@ slug: "organisational-issues-and-success-factors-erp"
 description: ""
 keywords: ["erp", "organisation", "IT", "informationsystems"]
 draft: false
-tags: ["information-technology"]
+tags: ["Information Technology"]
 math: false
 toc: true
 ---

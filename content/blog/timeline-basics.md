@@ -5,7 +5,7 @@ slug: "bc-bce-ad-ce"
 description: ""
 keywords: ["timeline", "bc", "bce", "ad", "ce"]
 draft: false
-tags: ["history"]
+tags: ["History"]
 math: false
 toc: false
 ---
