@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Technology on Ankit Mehta</title>
+    <link>/tags/information-technology/</link>
+    <description>Recent content in Information Technology on Ankit Mehta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 10 Nov 2020 09:19:29 -0400</lastBuildDate><atom:link href="/tags/information-technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organisational issues and success factors in implementing ERP systems</title>
+      <link>/blog/organisational-issues-and-success-factors-erp/</link>
+      <pubDate>Tue, 10 Nov 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/organisational-issues-and-success-factors-erp/</guid>
+      <description>As the competition increases in the global economy with unstable environments, many organisations have implemented IT solutions in the last three decades to make their organisation more effective and efficient. Enterprise Resource Planning (ERP) being one of the most popular of them. Growing use of ERP and its strategic importance has always sparked the interest of researchers. This report attempts to introduce an ERP system and various implementation methods and later an analysis of major organizational issues and success factors.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -67,7 +67,13 @@ copyright = "© {year}"
   url = "/blog"
 
 [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    title = "Contact"
-    url = "/contact"
+  identifier = "work"
+  name = "Experience"
+  title = "Experience"
+  url = "/work"
+
+[[menu.main]]
+  identifier = "education"
+  name = "Education"
+  title = "Education"
+  url = "/education"

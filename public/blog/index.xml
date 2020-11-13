@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ankit Mehta</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Ankit Mehta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 12 Nov 2020 09:19:29 -0400</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small stand-up for a big impact</title>
+      <link>/blog/stand-up-meeting/</link>
+      <pubDate>Thu, 12 Nov 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/stand-up-meeting/</guid>
+      <description>In my time as a student, an IT professional as well as a teaching assistant, I often came across a very small yet important concept of project management - a stand-up meeting. While I enjoyed having it, I observed that most of the students as well as IT professionals working in the industry find it either a waste of time or think of it as a redundant act of a typical meeting with just one difference - standing up.</description>
+    </item>
+    
+    <item>
+      <title>Organisational issues and success factors in implementing ERP systems</title>
+      <link>/blog/organisational-issues-and-success-factors-erp/</link>
+      <pubDate>Tue, 10 Nov 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/organisational-issues-and-success-factors-erp/</guid>
+      <description>As the competition increases in the global economy with unstable environments, many organisations have implemented IT solutions in the last three decades to make their organisation more effective and efficient. Enterprise Resource Planning (ERP) being one of the most popular of them. Growing use of ERP and its strategic importance has always sparked the interest of researchers. This report attempts to introduce an ERP system and various implementation methods and later an analysis of major organizational issues and success factors.</description>
+    </item>
+    
+    <item>
+      <title>Design for Humans - Part II</title>
+      <link>/blog/design-for-humans-part-2/</link>
+      <pubDate>Sat, 10 Oct 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/design-for-humans-part-2/</guid>
+      <description>Did you know that colours play a very important role in the way a living being perceives information? Colours are not just a topic in fine-arts but they are a science in itself. Don’t worry, I am not going to get into the physics of a prism converting the white light into rainbow colours. But if you are interested in it, please read https://www.physicsclassroom.com/class/refrn/Lesson-4/Dispersion-of-Light-by-Prisms in your spare time. It is really interesting.</description>
+    </item>
+    
+    <item>
+      <title>Design for humans - Part I</title>
+      <link>/blog/design-for-humans-part-1/</link>
+      <pubDate>Fri, 04 Sep 2020 09:19:29 -0400</pubDate>
+      
+      <guid>/blog/design-for-humans-part-1/</guid>
+      <description>I have observed that many software applicatoins struggle with designing interfaces, cracking the user experience, and building mock-ups. There is often a dilemma between making something complex and making something beautiful. Yes, I said ‘beautiful’ and not ‘simple’. Something complex in the back-end doesn’t mean it has to be confusing in the front-end. I have come across many applications that are packed with amazing functionalities and very well-thought back-end code design but simply lack a good interface.</description>
+    </item>
+    
+    <item>
+      <title>Understanding year notations – BC, BCE, AD, and CE</title>
+      <link>/blog/bc-bce-ad-ce/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/bc-bce-ad-ce/</guid>
+      <description>In order to know and understand the events in history, it is vital to understand the timeline. To understand timeline, it is important to decode the denotations for years. I mean understanding the full form and meaning of terms BC, BCE, AD and CE. Before we being, it is important to understand the concept of an “year”. An “year” that is universally accepted and followed comes from the Georgian Calendar (also commonly known as “Christian” or “Western” calendar).</description>
+    </item>
+    
+  </channel>
+</rss>
