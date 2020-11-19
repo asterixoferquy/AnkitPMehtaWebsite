@@ -65,3 +65,9 @@ copyright = "© {year}"
   name = "Blog"
   title = "Blog"
   url = "/blog"
+
+[[menu.main]]
+  identifier = "list"
+  name = "Impossible List"
+  title = "Impossible List"
+  url = "/list.md"
