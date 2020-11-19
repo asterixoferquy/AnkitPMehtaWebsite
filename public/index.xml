@@ -44,33 +44,5 @@
       <description>I have observed that many software applicatoins struggle with designing interfaces, cracking the user experience, and building mock-ups. There is often a dilemma between making something complex and making something beautiful. Yes, I said ‘beautiful’ and not ‘simple’. Something complex in the back-end doesn’t mean it has to be confusing in the front-end. I have come across many applications that are packed with amazing functionalities and very well-thought back-end code design but simply lack a good interface.</description>
     </item>
     
-    <item>
-      <title>Understanding year notations – BC, BCE, AD, and CE</title>
-      <link>/blog/bc-bce-ad-ce/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/bc-bce-ad-ce/</guid>
-      <description>In order to know and understand the events in history, it is vital to understand the timeline. To understand timeline, it is important to decode the denotations for years. I mean understanding the full form and meaning of terms BC, BCE, AD and CE. Before we being, it is important to understand the concept of an “year”. An “year” that is universally accepted and followed comes from the Georgian Calendar (also commonly known as “Christian” or “Western” calendar).</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>I’m an IT professional, blogger, and a productivity enthusiast who is passionate about helping organisations grow to their true potential, while contributing to the society by spreading knowledge and asking the right questions.
-My history-focused blog The History Nerdexplores the past of everyday things, proverbs, events, and everything under the sun. It tries to answer the questions which one may have never asked. For example, who’s feetare we talking about while measuring in feet?</description>
-    </item>
-    
-    <item>
-      <title>You are awesome!</title>
-      <link>/contact-success/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact-success/</guid>
-      <description>Hey there, Thank you for sending me a message. I promise to get back to you as soon as possible. Meanwhile, please feel free to connect with me on Instagram or LinkedIn from the links below. </description>
-    </item>
-    
   </channel>
 </rss>

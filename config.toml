@@ -65,3 +65,9 @@ copyright = "© {year}"
   name = "Blog"
   title = "Blog"
   url = "/blog"
+
+  [[menu.main]]
+  identifier = "achievements"
+  name = "Achieveents"
+  title = "Achievements"
+  url = "/achievements"
