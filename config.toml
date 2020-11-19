@@ -65,15 +65,3 @@ copyright = "© {year}"
   name = "Blog"
   title = "Blog"
   url = "/blog"
-
-[[menu.main]]
-  identifier = "work"
-  name = "Experience"
-  title = "Experience"
-  url = "/work"
-
-[[menu.main]]
-  identifier = "education"
-  name = "Education"
-  title = "Education"
-  url = "/education"
