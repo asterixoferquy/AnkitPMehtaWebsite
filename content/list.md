@@ -4,5 +4,5 @@ date = ""
 +++
 
 This is my impossible list.
-[+] Test check
-[-] Test uncheck
+[x] Test check
+[] Test uncheck
