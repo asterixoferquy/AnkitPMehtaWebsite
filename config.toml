@@ -53,6 +53,12 @@ copyright = "© {year}"
   [markup.goldmark.renderer]
       unsafe = true
 
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  extensions = ["hardLineBreak"]
+
 # Controls the navigation
 [[menu.main]]
   identifier = "about"
