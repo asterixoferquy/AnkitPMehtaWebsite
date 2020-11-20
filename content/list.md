@@ -10,4 +10,4 @@ I have been a book lover since my childhood. I grew up reading classics like *Tr
 
 I've set up this page for two reasons. The first one being a way to commit myself to reading books regularly and making you my [accountability partners](https://www.youtube.com/watch?v=qd10-f9bzu0). Many of my friends and family members get super impressed by my little personal library and ask me for book recomendations. So, the second purpose of this page is to help them and you (my new firend) to figure out what to read next. By the way, if you have any recommendations for me, please connect with me via links on the [About](https://ankitmehta.xyz/) page. So, lets begin...
 
-- [ ] [**Ikigai: The Japanese Secret to a Long and Happy Life**](https://www.goodreads.com/book/show/40534545-ikigai) by Hector Garcia and Francesc Miralles
+- [] [**Ikigai: The Japanese Secret to a Long and Happy Life**](https://www.goodreads.com/book/show/40534545-ikigai) by Hector Garcia and Francesc Miralles
