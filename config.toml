@@ -68,6 +68,6 @@ copyright = "© {year}"
 
 [[menu.main]]
   identifier = "list"
-  name = "Impossible List"
-  title = "Impossible List"
+  name = "Reading List"
+  title = "Reading List"
   url = "/list"
